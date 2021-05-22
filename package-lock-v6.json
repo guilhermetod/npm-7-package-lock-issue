@@ -1,0 +1,12 @@
+{
+  "name": "npm-7-package-lock-issue",
+  "version": "1.0.0",
+  "lockfileVersion": 1,
+  "requires": true,
+  "dependencies": {
+    "npm-7-package-lock-issue": {
+      "version": "file:libs/example.tgz",
+      "integrity": "sha512-DCSLUP3i8X0ZbWVwt5MHyK+Xtf6OHBAWn8pSawFiY8923RLA0DNK0FTh/+XhCwjgZAuONwsXsc4WIfm85JxrLA=="
+    }
+  }
+}
